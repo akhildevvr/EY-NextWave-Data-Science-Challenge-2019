@@ -1,0 +1,7 @@
+There are approximately 210,000 devices and 11 columns in the database. You will receive these records separated into two datasets to download: 
+1.A train dataset (data_train.csv) • 
+2.A test dataset (data_test.csv)
+The train dataset contains 80% of the records, while the test dataset contains 20%. The test dataset will then be split into public and private datasets.
+
+The data can be downloaded from the following link :
+https://akhildevvrversion.s3.amazonaws.com/EY.zip
